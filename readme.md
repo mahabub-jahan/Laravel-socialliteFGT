@@ -11,5 +11,13 @@
 
 This project shows how to use Facebook, Github, Twitter, Google+ in Laravel project using socilite package. 
 
+
+## Documentation Link
 - [Laravel Documentation Link](https://laravel.com/docs/5.6/socialite)
 - [Github Documentation Link](https://github.com/laravel/socialite/tree/2.0)
+
+
+## Youtube Link
+
+- [Youtube link for CodeTime](https://www.youtube.com/playlist?list=PLylMDDjFIp1Ay6LqXVQHlfuUWb6aU0cDC)
+- [Yourtube link for Bitfumes](https://www.youtube.com/playlist?list=PLe30vg_FG4OQbB0l23MwKv78p6iXtPiSp)
